@@ -1,0 +1,6 @@
+# sumu
+# sumu
+This project deals with managaing a database of room booking in a hotel and database of rental vehicle booking service.
+There are 12 rooms in the hotel, 4 rooms per floor for 3 floors.
+The rooms in the higher floors are charged more.
+For getting a vehicle for rent, the person has to book a room in the same hotel itself. If not, he is not given access to the vehicle rentals.
