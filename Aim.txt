@@ -1,0 +1,12 @@
+Aim of our project 
+ 
+
+• Allotting unique customer ID for each customer who books a room in hotel. 
+
+• Updating the room list after allotting a room to a customer. 
+
+• Generating unique book ID for each room booked.  
+
+• Allotting a new vehicle for a customer (if desired) by referring booking ID. 
+
+• Updating the vehicle list after allotting vehicle to a customer. 

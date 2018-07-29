@@ -1,0 +1,18 @@
+In the files available, javaProject.rar contains whole project i.e the front end of the database.
+
+And the BackEndData.sql file contains all the tables, views, structures, data, connections and all the data
+that you will needing to create a database for this project.
+
+In the backend data there is a structure called access which contains the login credentials of hotel.
+
+Similarly structure called access1 contains login credentials of vehicle.
+
+But for the complete information and overview regarding the backend database refer the Files- (ER diagrams & Schema diagram)
+which i have uploaded in the repository.
+
+I have used extra libraries such as Mysql-connector and jCalender.
+
+To connect backend and front end i have made use of Mysql-connector which also requires some coding in order 
+to establish the connection between backend and front end.
+
+I have used jCalender during transaction process in both hotel and vehicle. 
